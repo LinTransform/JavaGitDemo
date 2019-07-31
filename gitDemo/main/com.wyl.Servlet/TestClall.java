@@ -4,6 +4,7 @@ public class TestClall {
     public static void main(String[] args) {
         System.out.println("AAAAAA");
         System.out.println("DDDDD");
+        System.out.println("CCCCC");
     }
 
 }
